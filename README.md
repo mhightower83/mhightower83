@@ -5,6 +5,7 @@
 * [BacktraceLog](https://github.com/mhightower83/BacktraceLog) Arduino ESP8266 library - Store a backtrace of a crash to (no init) IRAM or DRAM log buffer with an optional backup to RTC memory.
 * [MAX31855K](https://github.com/mhightower83/MAX31855K) Arduino ESP8266 Device Library for the MAX31855K with the option to apply linear corrections to non-linear thermocouple response.
 * [SpiFlashUtils](https://github.com/mhightower83/SpiFlashUtils) Arduino ESP8266 library - SPI0 Flash Utilities for reclaiming GPIO9 and GPIO10.
+   *   [A Review of Past Attempts](https://github.com/mhightower83/Arduino-ESP8266-misc/wiki/Pins-GPIO9-and-GPIO10#a-review-of-past-attempts)
 * [JedecJep106Lib](https://github.com/mhightower83/JedecJep106Lib) SPI Flash Bank/MFG ID Lookup. Provides a wrapper to use flash manufacturer name look-up library from [tianocore/edk2](https://github.com/tianocore/edk2/blob/master/MdePkg/Library/JedecJep106Lib/JedecJep106Lib.c) on an Arduino build platform. 
 
 ## Tools
