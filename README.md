@@ -9,7 +9,8 @@
 * [Troubleshooting](https://github.com/mhightower83/MAX31855K/wiki/Troubleshooting#troubleshooting) 
 --> 
 * [SpiFlashUtils](https://github.com/mhightower83/SpiFlashUtils) Arduino ESP8266 library - SPI0 Flash Utilities for reclaiming GPIO9 and GPIO10.
-   * [A Review of Past Attempts](https://github.com/mhightower83/Arduino-ESP8266-misc/wiki/Pins-GPIO9-and-GPIO10#a-review-of-past-attempts)
+  * <a href="https://github.com/mhightower83/Arduino-ESP8266-misc/wiki/Pins-GPIO9-and-GPIO10#a-review-of-past-attempts" target="_blank">A Review of Past Attempts</a>
+   <!-- * [A Review of Past Attempts](https://github.com/mhightower83/Arduino-ESP8266-misc/wiki/Pins-GPIO9-and-GPIO10#a-review-of-past-attempts) -->
 * [JedecJep106Lib](https://github.com/mhightower83/JedecJep106Lib) SPI Flash Bank/MFG ID Lookup. Provides a wrapper to use flash manufacturer name look-up library from [tianocore/edk2](https://github.com/tianocore/edk2/blob/master/MdePkg/Library/JedecJep106Lib/JedecJep106Lib.c) on an Arduino build platform. 
 
 ## Tools
