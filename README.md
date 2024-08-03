@@ -19,7 +19,8 @@ unable to position at section of the page
 
 
 ## Tools
-* [WiFiPcap](https://github.com/mhightower83/WiFiPcap) Stream WiFi packets encapsulated with PCAP to Wireshark using a USB port. It runs on an ESP32S3.
+* [WiFiPcap](https://github.com/mhightower83/WiFiPcap) This project streams PCAP-encapsulated packets to Wireshark gathered from the ESP32-S3's WiFi Promiscuous interface. A Python script on the host side manages communication and setup with the ESP32-S3 while streaming packets from the USB interface to Wireshark.
+
 
 <!--
 **mhightower83/mhightower83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
