@@ -1,7 +1,7 @@
 ## Notes and Projects
 * [Arduino ESP8266 misc](https://github.com/mhightower83/Arduino-ESP8266-misc/wiki) my notes
 ## Libraries
-* [AbendInfo](https://github.com/mhightower83/AbendInfo) Arduino ESP8266 library - Intercept some crash events that result in Hardware or Software WDT Resets. Cache the results across reboot.
+* [AbendInfo](https://github.com/mhightower83/AbendInfo) Arduino ESP8266 library - Improve Postmortem reporting by intercepting some crash events that result in Hardware or Software WDT Resets. And, cache the results across reboot.
 * [BacktraceLog](https://github.com/mhightower83/BacktraceLog) An Arduino ESP8266 library that generates and stores a backtrace of a crash in an IRAM or DRAM log buffer. By crunching the stack trace and code to create a list of function addresses at play when the crash occurred, we can condense the amount of data that needs to be stored for later analysis. Reducing the data to a small list allows storage in slivers of unused IRAM or noinit DRAM, which can optionally be backed up to User RTC memory.
 * [MAX31855K](https://github.com/mhightower83/MAX31855K) Arduino ESP8266 Device Library for the MAX31855K with the option to apply linear corrections to non-linear thermocouple response.
    * [Troubleshooting](https://github.com/mhightower83/MAX31855K/wiki/Troubleshooting#troubleshooting) sections has some insight on issues that can occur with the ESP8266 and SPI devices.
