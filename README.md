@@ -1,4 +1,4 @@
-## Notes and Projects
+## Notes
 * [Arduino ESP8266 misc](https://github.com/mhightower83/Arduino-ESP8266-misc/wiki) my notes
 ## Libraries
 
