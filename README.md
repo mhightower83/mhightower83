@@ -1,5 +1,6 @@
 ## Notes
 * [Arduino ESP8266 misc](https://github.com/mhightower83/Arduino-ESP8266-misc/wiki) my notes
+* [Dell 2001FP Monitor](https://github.com/mhightower83/misc-bash/wiki/Fix-EDID-on-Dell-2001FP#dell-2001fp) notes for patching/repairing EDID table.
 ## Libraries
 
 * [AbendInfo](https://github.com/mhightower83/AbendInfo) Arduino ESP8266 library - Improve Postmortem reporting by intercepting some crash events that result in Hardware or Software WDT Resets. And, cache the results across reboot.
